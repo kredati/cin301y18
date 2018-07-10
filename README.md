@@ -6,108 +6,124 @@
 * Alfred Hitchcock, _Psycho_ (USA, 1960, 109 mins.)
 * Linda Williams, “Discipline and Fun: Psycho and Postmodern Cinema”
 * Roland Barthes, “The Rhetoric of the Image”
-* OH: "Sex and Sensation"
+* OH: “Sex and Sensation”
 
 ### 2. Underground Cinema
 * Andy Warhol, _Blow Job_ (USA, 1963, 35 mins.)
 * Jack Smith, _Flaming Creatures_ (USA, 1963, 45 mins.)
 * _Maybe:_ Barbara Rubin, _Christmas on Earth_ (USA, 1963, 29 mins.)
-* Jonathan Flatley, from _Like Andy Warhol_
 * Susan Sontag, “Notes on Camp”
 * Susan Sontag, “Flaming Creatures”
-* OH: "Avant-Garde Film: The Second Wave"
+* Jonathan Flatley, from _Like Andy Warhol_
+* OH: “Avant-Garde Film: The Second Wave”
 
 ### 3. The New Waves
 * Vera Chytilová, _Daisies_ (Czechoslovakia, 1966, 74 mins.)
+* Jan Žalman, “Question Marks on the New Czechoslovak Cinema”
 * Jean-Francois Lyotard, “Acinema”
-* OH: "Changing States in East Central Europe"
+* Bliss Cua Lim, “Dolls in Fragments: _Daisies_ as Feminist Allegory”
+* OH: “Changing States in East Central Europe”
 […more here]
 
 ### 4. Third Cinema, Revolutionary Cinema
-* Octavio Getino & Fernando Solanas, _Hour of the Furnaces_, part 1: "Neocolonialism and Violence" (Argentina, 1968, 90mins.)
+* Octavio Getino & Fernando Solanas, _Hour of the Furnaces_, part 1: “Neocolonialism and Violence” (Argentina, 1968, 90mins.)
 * Getino & Solanas, “Toward a Third Cinema”
-* Chakrabarti, on provincializing Europe
-* Fanon, TBD (“The Fact of Blackness”?)
-* OH: "New Cinemas in Latin America"
+* Dipesh Chakrabarty, “The Idea of Provincializing Europe”
+* Frantz Fanon, Preface to _The Wretched of the Earth_
+* OH: “New Cinemas in Latin America”
 
 ### 5. Fourth Cinema, Indigeneity
-
+* Zacharias Kunuk and Norman Cohn, _The Journals of Knud Rasmussen_ (Canada, 2006, 112 mins.)
+* Arnold Krupat, “_Atanarjuat, The Fast Runner_ and Its Audiences”
+* Kerstin Knopf, “_The Journals of Knud Rasmussen_: Arctic History as Post/Colonial Cinema”
+* Corinn Columpar, selection (TBD) from _Unsettling Sights_
 
 ## Unit 2: The Apparatus
 
 ### 1. Cinema and/as Technology
 * Stanley Kubrick, _2001: A Space Odyssey_ (USA/UK, 1968, 149 mins.)
+* Jordan Belson, _Samahdi_ (USA, 1967, 6 mins.)
 * Annette Michelson, “Bodies in Space: Film as Carnal Knowledge”
-* Gene Youngblood, from _Expanded Cinema_
-[something from the history of computation: Bush, Engelbart, Licklider, &c.]
-* OH: "New Technologies"
+* Gene Youngblood, from _Expanded Cinema_: exerpts from “The Audience and the Myth of Entertainment” (pp. 45–58), and “Toward Cosmic Consciousness” (pp. 135–78)
+* OH: “New Technologies”
 
 ### 2. Cinema and Ideology
 * Rainer Werner Fassbinder, _Ali: Fear Eats the Soul_ (Germany, 1973, 94 mins.)
 * Althusser, “Ideology and Ideological State Apparatuses”
 * Jean-Louis Baudry, “Ideological Effects of the Basic Cinematographic Apparatus”
-* OH: "The New German Cinema"
+* OH: “The New German Cinema”
 
 ### 3. Primary Cinematic Identification, or Blockbuster Reality
 * Steven Spielberg, _Close Encounters of the Third Kind_ (USA, 1977, 138 mins.)
-* Jacques Lacan, on the mirror stage
-* Christian Metz, from _The Imaginary Signifier_
-* Julie Turnock, from _Plastic Reality_
-* OH: "The New Hollywood" and "Dreams and Nightmares in the Hollywood Blockbuster"
+* Jacques Lacan, “The Mirror Stage as Formative of the _I_ Function”
+* Christian Metz, “Identification, Mirror,” “The Passion for Perceiving,” and “Disavowal, Fetishism,” from _The Imaginary Signifier_
+* Julie Turnock, “Before Industrial Light and Magic”
+* OH: “The New Hollywood” and “Dreams and Nightmares in the Hollywood Blockbuster”
 
 ### 4. Secondary Cinematic Identification, or Passionate Detachment
 * Alfred Hitchcock, _Vertigo_ (USA, 1958, 128 mins.)
 Laura Mulvey, “Visual Pleasure and Narrative Cinema”
-* Sigmund Freud, on castration (“Anatomical Differences,” “Laugh of the Medusa,” etc.)
+* Sigmund Freud, “Medusa’s Head” and “Some Psychological Consequences of the Anatomical Distinction Between the Sexes”
 * Damon Young, “The Vicarious Look”
 
 ### 5. Disidentification, or Spectatorship
 * Melvin Van Peebles, _Sweet Sweetback’s Basdasssss Song_ (USA, 1971, 97 mins.)
 * bell hooks, “The Oppositional Gaze”
 * Hortense Spillers, “The Idea of Black Culture”
-* Liz Reich, on _Sweetback_
-* OH: "The Black Presence in American Cinema"
+* Elizabeth Reich, “Historicizing and Internationalizing the ‘Baadasssss’,” from _Militant Visions_ (1–22)
+* OH: “The Black Presence in American Cinema”
 
 ### 6. On Being Shattered
 * John Woo, _The Killer_ (Hong Kong, 1989, 110 mins.)
 * Leo Bersani, “Is the Rectum a Grave?”
 * Steven Shaviro, “Film Theory and Visual Fascination” from _The Cinematic Body_
-* OH: "Popular Cinema in Hong Kong"
+* OH: “Popular Cinema in Hong Kong”
 
 ## Winter Break
 
 ## Unit 3: What isn’t cinema?
 
 ### 11. The “Historical Turn”
-* Program of early shorts + Ken Jacobs + YouTube
-* Tom Gunning, “The Cinema of Attractions” and “An Aesthetic of Astonishment”
-* Some combination of:
-  - Miriam Hansen on _The Teddy Bears_ in _Babel and Babylon_
-  - Miriam Hansen, “Room-for-Play”
-  - Walter Benjamin, Artwork Essay (but B. Jacobson taught this in CIN201)
-  - Walter Benjamin, “Experience and Poverty”
-  - (&c.)
+* Program of early attractions shorts
+* Ken Jacobs, _The Georgetown Loop_ (USA, 1996, 11 mins.)
+* Ken Jacobs, _Capitalism: Slavery_ (USA, 2007, 3 mins.)
+* Ken Jacobs, _Capitalism: Child Labor_ (USA, 2007, 9 mins.)
+* Program of YouTube “attractions” (_Jackass_, pranks, etc.)
+* James J. Hodge, _Touch_ (USA, 2018, ~10 mins.)
+* Walter Benjamin, “The Work of Art in the Age of its Technological Reproducibility, 2nd Version”
+* Walter Benjamin, “Experience and Poverty”
+* Tom Gunning, “An Aesthetic of Astonishment”
+* James Leo Cahill, “A YouTube Bestiary”
 
 ### 12. Film, Realism
-* Wong Kar-Wai, _Happy Together_ (Hong Kong, 1997, 96 mins.)
-* Stanley Cavell, selections from _The World Viewed_
+* Agnès Varda, _The Gleaners and I_ (France, 2000, 82 mins.)
+* Stanley Cavell, selections (TBD) from _The World Viewed_
 
 ### 13. Television, Liveness
 * Marlon Riggs, _Tongues Untied_ (USA, 1989, 55 mins.)
-* Program of TV news, GMA, etc.
+* Program of TV news, morning shows, talk shows, etc.
 * Marshall McLuhan, “The Gadget Lover” (etc.?) from _Understanding Media_
-* Deborah Esch, from _In the Event_
-* Sam Weber, from _Mass Mediauras_
-* OH: "Television and the Film Industry"
+* Mary Ann Doane, “Information, Crisis, Catastrophe”
+* Jane Feuer, “The Concept of Live Television: Ontology as Ideology”
+* OH: “Television and the Film Industry”
 
 ### 14. Video, Art
-* Program of video and performance art: Bill Viola (_Lip Synch_), Marina Abramovic (_The Other, Rest Energy_), Nam June Paik (_Television Buddha_ and others)
-* Rosalind Krauss, from _A Voyage on the North Sea_ [or something on modernism]
-* Kate Mondloch, from _Screens_
+* Program of video and performance art:
+  - Bill Viola, _Lip Synch_ (USA)
+  - Marina Abramovic, _The Other_, _Rest Energy_ (Serbia/USA)
+  - Nam June Paik, _Television Buddha_ (Korea/Germany)
+  - Shirin Nesha, _Turbulent_ (Iran/USA)
+* Rosalind Krauss, _A Voyage on the North Sea: Art in the Age of the Post-Medium Condition_
+* Kate Mondloch, “Body and Screen,” from _Screens_
 
 ### 15. Computation, Screens
-* Program of videos of computation: "The Mother of All Demos," early computer animation
-* Kate Hayles, on the Turing Test from _How We Became Posthuman_
+* Program of videos of computation:
+  - Ivan Sutherland, Sketchpad videos
+  - Douglas Engelbart, clips from “The Mother of All Demos”
+  - John Whitney, _Matrix III_ (USA, 1972, 10 mins.)
+  - Manfred Mohr, _Cubic Limit_ (France, 1973–74, 4 mins.)
+  - Peter Foldes, _Hunger_ (Canada, 1974, 11 mins.)
+* Kate Hayles, “Virtual Bodies and Flickering Signifiers” from _How We Became Posthuman_
 * Wendy Chun, “The Persistence of Visual Knowledge”
 * Alexander Galloway, “Language Wants to be Overlooked”
 
@@ -115,28 +131,35 @@ Laura Mulvey, “Visual Pleasure and Narrative Cinema”
 
 ### 16. Reception, Historiography
 * Jennie Livingston, _Paris is Burning_ (USA, 1991, 78 mins.)
-* bell hooks on _Paris is Burning_
+* bell hooks, “Is Paris Burning?”
 * Judith Butler, “Gender is Burning” from _Bodies that Matter_
-* Lucas Hilderbrand, _Paris is Burning: A Queer Film Classic_
+* Lucas Hilderbrand, selection(s) (TBD) from _Paris is Burning: A Queer Film Classic_
 
-### 17. Animation, Machine
+### 17. Global, Circulation
+* Aziz Mirza, _Phir Bhi Dil Hai Hindustani_ (India, 2000, 160 mins.)
+* Priya Joshi, “Bollylite in America”
+*
+
+### 18. Animation, Machine
 * Katsuhiro Otomo, _Akira_ (Japan, 1988, 124 mins.)
-* Tom Lamarre, from _The Anime Machine_
-* Marc Stienberg, from _Anime’s Media Mix_
+* Tom Lamarre, “The Anime Machine,” from _The Anime Machine_
+* Marc Stienberg, selection (TBD) from _Anime’s Media Mix_
 
-### 18. Phenomenology, Description
+### 19. Phenomenology, Description
 * Luca Guadignino, _I am Love_ (Italy, 2009, 114 mins.)
-* Susan Sontag, “Against Interpretation"
+* Susan Sontag, “Against Interpretation”
 * Vivian Sobchack, “What My Fingers Knew”
 * Bruno Latour, “Why Has Critique Run Out of Steam?”
 
-### 19. Digital/Cinema
+### 20. Digital/Cinema
 * Michael Mann, _Blackhat_ (USA, 2015, 133 mins.) (or Laura Poitras, _Citizenfour_)
-* Mark Hansen, from New Philosophy for New Media
+* Mark Hansen, “Between Body and Image: On the ‘Newness’ of New Media Art,” from _New Philosophy for New Media_
 * Mark Hansen, “Technical Repetition and Digital Art”
 
-### 20. Digital/Media
+### 21. Digital/Media
 * Lernert Engelberts and Sander Plug, _I Love Alaska_ (Netherlands, 2009, 55 mins.)
+* Frances Stark, _My Best Thing_ (USA, 2011, exerpts)
+* Thompson + Craighead, _Beacon_ (UK, 2005–present)
 * James Hodge, “Sociable Media”
-* Kris Cohen, “Search Engine Subjectivities”
-* Anna Watkins Fisher on the parasite
+* Kris Cohen, “Search Engine Subjectivities” from _Never Alone Except for Now_
+* Anna Watkins Fisher, “User be Used”
