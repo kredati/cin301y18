@@ -137,14 +137,16 @@ Laura Mulvey, “Visual Pleasure and Narrative Cinema”
 
 ### 17. Global, Circulation
 * Aziz Mirza, _Phir Bhi Dil Hai Hindustani_ (India, 2000, 160 mins.)
-* Ashish Rajadhyaksha, "The 'Bollywoodization' of the Indian Cinema: Cultural Nationalism in a Global Arena"
+* Ashish Rajadhyaksha, “The ‘Bollywoodization’ of the Indian Cinema: Cultural Nationalism in a Global Arena”
 * Priya Joshi, “Bollylite in America”
 * **FIXME**: Something else here on global art cinema/film festival economics
+* OH: “India: Filming the Nation”
 
 ### 18. Animation, Machine
 * Katsuhiro Otomo, _Akira_ (Japan, 1988, 124 mins.)
 * Tom Lamarre, “The Anime Machine,” from _The Anime Machine_
 * Marc Stienberg, selection (TBD) from _Anime’s Media Mix_
+* OH: “The Modernization of Japanese Film”
 
 ### 19. Phenomenology, Description
 * Luca Guadignino, _I am Love_ (Italy, 2009, 114 mins.)
