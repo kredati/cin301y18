@@ -83,7 +83,7 @@ Laura Mulvey, “Visual Pleasure and Narrative Cinema”
 
 ## Unit 3: What isn’t cinema?
 
-### 11. The “Historical Turn”
+### 1. The “Historical Turn”
 * Program of early attractions shorts
 * Ken Jacobs, _The Georgetown Loop_ (USA, 1996, 11 mins.)
 * Ken Jacobs, _Capitalism: Slavery_ (USA, 2007, 3 mins.)
@@ -95,11 +95,11 @@ Laura Mulvey, “Visual Pleasure and Narrative Cinema”
 * Tom Gunning, “An Aesthetic of Astonishment”
 * James Leo Cahill, “A YouTube Bestiary”
 
-### 12. Film, Realism
+### 2. Film, Realism
 * Agnès Varda, _The Gleaners and I_ (France, 2000, 82 mins.)
 * Stanley Cavell, selections (TBD) from _The World Viewed_
 
-### 13. Television, Liveness
+### 3. Television, Liveness
 * Marlon Riggs, _Tongues Untied_ (USA, 1989, 55 mins.)
 * Program of TV news, morning shows, talk shows, etc.
 * Marshall McLuhan, “The Gadget Lover” (etc.?) from _Understanding Media_
@@ -107,7 +107,7 @@ Laura Mulvey, “Visual Pleasure and Narrative Cinema”
 * Jane Feuer, “The Concept of Live Television: Ontology as Ideology”
 * OH: “Television and the Film Industry”
 
-### 14. Video, Art
+### 4. Video, Art
 * Program of video and performance art:
   - Bill Viola, _Lip Synch_ (USA)
   - Marina Abramovic, _The Other_, _Rest Energy_ (Serbia/USA)
@@ -116,7 +116,7 @@ Laura Mulvey, “Visual Pleasure and Narrative Cinema”
 * Rosalind Krauss, _A Voyage on the North Sea: Art in the Age of the Post-Medium Condition_
 * Kate Mondloch, “Body and Screen,” from _Screens_
 
-### 15. Computation, Screens
+### 5. Computation, Screens
 * Program of videos of computation:
   - Ivan Sutherland, Sketchpad videos
   - Douglas Engelbart, clips from “The Mother of All Demos”
@@ -129,37 +129,37 @@ Laura Mulvey, “Visual Pleasure and Narrative Cinema”
 
 ## Unit 4: Cinema, now
 
-### 16. Reception, Historiography
+### 1. Reception, Historiography
 * Jennie Livingston, _Paris is Burning_ (USA, 1991, 78 mins.)
 * bell hooks, “Is Paris Burning?”
 * Judith Butler, “Gender is Burning” from _Bodies that Matter_
 * Lucas Hilderbrand, selection(s) (TBD) from _Paris is Burning: A Queer Film Classic_
 
-### 17. Global, Circulation
+### 2. Global, Circulation
 * Aziz Mirza, _Phir Bhi Dil Hai Hindustani_ (India, 2000, 160 mins.)
 * Ashish Rajadhyaksha, “The ‘Bollywoodization’ of the Indian Cinema: Cultural Nationalism in a Global Arena”
 * Priya Joshi, “Bollylite in America”
 * **FIXME**: Something else here on global art cinema/film festival economics
 * OH: “India: Filming the Nation”
 
-### 18. Animation, Machine
+### 3. Animation, Machine
 * Katsuhiro Otomo, _Akira_ (Japan, 1988, 124 mins.)
 * Tom Lamarre, “The Anime Machine,” from _The Anime Machine_
 * Marc Stienberg, selection (TBD) from _Anime’s Media Mix_
 * OH: “The Modernization of Japanese Film”
 
-### 19. Phenomenology, Description
+### 4. Phenomenology, Description
 * Luca Guadignino, _I am Love_ (Italy, 2009, 114 mins.)
 * Susan Sontag, “Against Interpretation”
 * Vivian Sobchack, “What My Fingers Knew”
 * Bruno Latour, “Why Has Critique Run Out of Steam?”
 
-### 20. Digital/Cinema
+### 5. Digital/Cinema
 * Michael Mann, _Blackhat_ (USA, 2015, 133 mins.) (or Laura Poitras, _Citizenfour_)
 * Mark Hansen, “Between Body and Image: On the ‘Newness’ of New Media Art,” from _New Philosophy for New Media_
 * Mark Hansen, “Technical Repetition and Digital Art”
 
-### 21. Digital/Media
+### 6. Digital/Media
 * Lernert Engelberts and Sander Plug, _I Love Alaska_ (Netherlands, 2009, 55 mins.)
 * Frances Stark, _My Best Thing_ (USA, 2011, exerpts)
 * Thompson + Craighead, _Beacon_ (UK, 2005–present)
