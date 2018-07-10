@@ -83,7 +83,7 @@ Laura Mulvey, “Visual Pleasure and Narrative Cinema”
 
 ## Unit 3: What isn’t cinema?
 
-### 1. The “Historical Turn”
+### 1. The “Historical [Re]Turn”
 * Program of early attractions shorts
 * Ken Jacobs, _The Georgetown Loop_ (USA, 1996, 11 mins.)
 * Ken Jacobs, _Capitalism: Slavery_ (USA, 2007, 3 mins.)
