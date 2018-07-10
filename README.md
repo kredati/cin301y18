@@ -6,7 +6,7 @@
 * Alfred Hitchcock, _Psycho_ (USA, 1960, 109 mins.)
 * Linda Williams, “Discipline and Fun: Psycho and Postmodern Cinema”
 * Roland Barthes, “The Rhetoric of the Image”
-* OH, "Sex and Sensation"
+* OH: "Sex and Sensation"
 
 ### 2. Underground Cinema
 * Andy Warhol, _Blow Job_ (USA, 1963, 35 mins.)
@@ -15,12 +15,12 @@
 * Jonathan Flatley, from _Like Andy Warhol_
 * Susan Sontag, “Notes on Camp”
 * Susan Sontag, “Flaming Creatures”
-* OH, "Avant-Garde Film: The Second Wave"
+* OH: "Avant-Garde Film: The Second Wave"
 
 ### 3. The New Waves
 * Vera Chytilová, _Daisies_ (Czechoslovakia, 1966, 74 mins.)
 * Jean-Francois Lyotard, “Acinema”
-* OH, "Changing States in East Central Europe"
+* OH: "Changing States in East Central Europe"
 […more here]
 
 ### 4. Third Cinema, Revolutionary Cinema
@@ -30,45 +30,48 @@
 * Fanon, TBD (“The Fact of Blackness”?)
 * OH: "New Cinemas in Latin America"
 
+### 5. Fourth Cinema, Indigeneity
+
+
 ## Unit 2: The Apparatus
 
-### 5. Cinema and/as Technology
+### 1. Cinema and/as Technology
 * Stanley Kubrick, _2001: A Space Odyssey_ (USA/UK, 1968, 149 mins.)
 * Annette Michelson, “Bodies in Space: Film as Carnal Knowledge”
 * Gene Youngblood, from _Expanded Cinema_
 [something from the history of computation: Bush, Engelbart, Licklider, &c.]
 * OH: "New Technologies"
 
-### 6. Cinema and Ideology
+### 2. Cinema and Ideology
 * Rainer Werner Fassbinder, _Ali: Fear Eats the Soul_ (Germany, 1973, 94 mins.)
 * Althusser, “Ideology and Ideological State Apparatuses”
 * Jean-Louis Baudry, “Ideological Effects of the Basic Cinematographic Apparatus”
 * OH: "The New German Cinema"
 
-### 7. Primary Cinematic Identification, or Blockbuster Reality
+### 3. Primary Cinematic Identification, or Blockbuster Reality
 * Steven Spielberg, _Close Encounters of the Third Kind_ (USA, 1977, 138 mins.)
 * Jacques Lacan, on the mirror stage
 * Christian Metz, from _The Imaginary Signifier_
 * Julie Turnock, from _Plastic Reality_
 * OH: "The New Hollywood" and "Dreams and Nightmares in the Hollywood Blockbuster"
 
-### 8. Secondary Cinematic Identification, or Passionate Detachment
+### 4. Secondary Cinematic Identification, or Passionate Detachment
 * Alfred Hitchcock, _Vertigo_ (USA, 1958, 128 mins.)
 Laura Mulvey, “Visual Pleasure and Narrative Cinema”
 * Sigmund Freud, on castration (“Anatomical Differences,” “Laugh of the Medusa,” etc.)
 * Damon Young, “The Vicarious Look”
 
-### 9. Disidentification, or Spectatorship
+### 5. Disidentification, or Spectatorship
 * Melvin Van Peebles, _Sweet Sweetback’s Basdasssss Song_ (USA, 1971, 97 mins.)
 * bell hooks, “The Oppositional Gaze”
 * Hortense Spillers, “The Idea of Black Culture”
 * Liz Reich, on _Sweetback_
 * OH: "The Black Presence in American Cinema"
 
-### 10. On Being Shattered
+### 6. On Being Shattered
 * John Woo, _The Killer_ (Hong Kong, 1989, 110 mins.)
 * Leo Bersani, “Is the Rectum a Grave?”
-* Steven Shaviro, “Film Theory and Visual Fascination” from The Cinematic Body
+* Steven Shaviro, “Film Theory and Visual Fascination” from _The Cinematic Body_
 * OH: "Popular Cinema in Hong Kong"
 
 ## Winter Break
@@ -128,12 +131,12 @@ Laura Mulvey, “Visual Pleasure and Narrative Cinema”
 * Bruno Latour, “Why Has Critique Run Out of Steam?”
 
 ### 19. Digital/Cinema
-* Michael Mann, _Blackhat_ (USA, 2015, 133 mins.)
+* Michael Mann, _Blackhat_ (USA, 2015, 133 mins.) (or Laura Poitras, _Citizenfour_)
 * Mark Hansen, from New Philosophy for New Media
 * Mark Hansen, “Technical Repetition and Digital Art”
 
 ### 20. Digital/Media
-* Frances Stark, Lernert Engelberts and Sander Plug, _I Love Alaska_ (Netherlands, 2009, 55 mins.)
+* Lernert Engelberts and Sander Plug, _I Love Alaska_ (Netherlands, 2009, 55 mins.)
 * James Hodge, “Sociable Media”
 * Kris Cohen, “Search Engine Subjectivities”
 * Anna Watkins Fisher on the parasite
