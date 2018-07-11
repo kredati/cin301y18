@@ -1,6 +1,6 @@
 # CIN301: Second Draft
 
-##Unit 1: Hollywood and its Others
+## Unit 1: Hollywood and its Others
 
 ### 1. Cinema, 1960
 * Alfred Hitchcock, _Psycho_ (USA, 1960, 109 mins.)
@@ -62,7 +62,7 @@
 
 ### 4. Secondary Cinematic Identification, or Passionate Detachment
 * Alfred Hitchcock, _Vertigo_ (USA, 1958, 128 mins.)
-Laura Mulvey, “Visual Pleasure and Narrative Cinema”
+* Laura Mulvey, “Visual Pleasure and Narrative Cinema”
 * Sigmund Freud, “Medusa’s Head” and “Some Psychological Consequences of the Anatomical Distinction Between the Sexes”
 * Damon Young, “The Vicarious Look”
 
