@@ -1,5 +1,9 @@
 # CIN301: Second Draft
 
+## Required books
+* Stanley Cavell, _The World Viewed_
+* Lucas Hilderbrand, _Paris is Burning: A Queer Film Classic_
+
 ## Unit 1: Hollywood and its Others
 
 ### 1. Cinema, 1960
@@ -14,19 +18,18 @@
 * _Maybe:_ Barbara Rubin, _Christmas on Earth_ (USA, 1963, 29 mins.)
 * Susan Sontag, “Notes on Camp”
 * Susan Sontag, “Flaming Creatures”
-* Jonathan Flatley, from _Like Andy Warhol_
+* Ara Osterweil, "Saint Barbara: The Cinema of Barbara Rubin," from _Flesh Cinema_
 * OH: “Avant-Garde Film: The Second Wave”
 
 ### 3. The New Waves
-* Vera Chytilová, _Daisies_ (Czechoslovakia, 1966, 74 mins.)
+* Vera Chytilová, _Daisies_ (_Sedmikrásky_, Czechoslovakia, 1966, 74 mins.)
 * Jan Žalman, “Question Marks on the New Czechoslovak Cinema”
 * Jean-Francois Lyotard, “Acinema”
 * Bliss Cua Lim, “Dolls in Fragments: _Daisies_ as Feminist Allegory”
 * OH: “Changing States in East Central Europe”
-[…more here]
 
 ### 4. Third Cinema, Revolutionary Cinema
-* Octavio Getino & Fernando Solanas, _Hour of the Furnaces_, part 1: “Neocolonialism and Violence” (Argentina, 1968, 90mins.)
+* Octavio Getino & Fernando Solanas, _Hour of the Furnaces_, part 1: “Neocolonialism and Violence” (_La hora de los hornos_, Argentina, 1968, 90mins.)
 * Getino & Solanas, “Toward a Third Cinema”
 * Dipesh Chakrabarty, “The Idea of Provincializing Europe”
 * Frantz Fanon, Preface to _The Wretched of the Earth_
@@ -34,9 +37,11 @@
 
 ### 5. Fourth Cinema, Indigeneity
 * Zacharias Kunuk and Norman Cohn, _The Journals of Knud Rasmussen_ (Canada, 2006, 112 mins.)
-* Arnold Krupat, “_Atanarjuat, The Fast Runner_ and Its Audiences”
+* Barry Barclay, “Celebrating Fourth Cinema”
 * Kerstin Knopf, “_The Journals of Knud Rasmussen_: Arctic History as Post/Colonial Cinema”
-* Corinn Columpar, selection (TBD) from _Unsettling Sights_
+* Monika Siebert, “_Atanarjuat_ and the Ideological Work of Contemporary Indigenous Filmmaking”
+* Arnold Krupat, “_Atanarjuat, The Fast Runner_ and Its Audiences”
+* Corinn Columpar, Preface and “Speech Acts: Toward a ‘Postcolonial’ Poetics,” from _Unsettling Sights_
 
 ## Unit 2: The Apparatus
 
@@ -48,7 +53,7 @@
 * OH: “New Technologies”
 
 ### 2. Cinema and Ideology
-* Rainer Werner Fassbinder, _Ali: Fear Eats the Soul_ (Germany, 1973, 94 mins.)
+* Rainer Werner Fassbinder, _Ali: Fear Eats the Soul_ (_Angst essen seele auf_, Germany, 1973, 94 mins.)
 * Althusser, “Ideology and Ideological State Apparatuses”
 * Jean-Louis Baudry, “Ideological Effects of the Basic Cinematographic Apparatus”
 * OH: “The New German Cinema”
@@ -70,11 +75,11 @@
 * Melvin Van Peebles, _Sweet Sweetback’s Basdasssss Song_ (USA, 1971, 97 mins.)
 * bell hooks, “The Oppositional Gaze”
 * Hortense Spillers, “The Idea of Black Culture”
-* Elizabeth Reich, “Historicizing and Internationalizing the ‘Baadasssss’,” from _Militant Visions_ (1–22)
+* Elizabeth Reich, “Historicizing and Internationalizing the ‘Baadasssss’,” from _Militant Visions_ (pp. 1–22 + notes)
 * OH: “The Black Presence in American Cinema”
 
 ### 6. On Being Shattered
-* John Woo, _The Killer_ (Hong Kong, 1989, 110 mins.)
+* John Woo, _The Killer_ (_喋血双雄_, _Diéxuè shuāngxióng_, Hong Kong, 1989, 110 mins.)
 * Leo Bersani, “Is the Rectum a Grave?”
 * Steven Shaviro, “Film Theory and Visual Fascination” from _The Cinematic Body_
 * OH: “Popular Cinema in Hong Kong”
@@ -96,7 +101,7 @@
 * James Leo Cahill, “A YouTube Bestiary”
 
 ### 2. Film, Realism
-* Agnès Varda, _The Gleaners and I_ (France, 2000, 82 mins.)
+* Agnès Varda, _The Gleaners and I_ (_Les glaneurs et la glaneuse_, France, 2000, 82 mins.)
 * Stanley Cavell, selections (TBD) from _The World Viewed_
 
 ### 3. Television, Liveness
@@ -133,10 +138,10 @@
 * Jennie Livingston, _Paris is Burning_ (USA, 1991, 78 mins.)
 * bell hooks, “Is Paris Burning?”
 * Judith Butler, “Gender is Burning” from _Bodies that Matter_
-* Lucas Hilderbrand, selection(s) (TBD) from _Paris is Burning: A Queer Film Classic_
+* Lucas Hilderbrand, pp. 17–88 and 119–46 (TBD) from _Paris is Burning: A Queer Film Classic_
 
 ### 2. Global, Circulation
-* Aziz Mirza, _Phir Bhi Dil Hai Hindustani_ (India, 2000, 160 mins.)
+* Aziz Mirza, _Phir Bhi Dil Hai Hindustani_ (_फिर भी दिल है हिन्दुस्तानी _, _Yet the Heart is Still Indian_, India, 2000, 160 mins.)
 * Ashish Rajadhyaksha, “The ‘Bollywoodization’ of the Indian Cinema: Cultural Nationalism in a Global Arena”
 * Priya Joshi, “Bollylite in America”
 * **FIXME**: Something else here on global art cinema/film festival economics
