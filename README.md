@@ -6,13 +6,13 @@
 
 ## Unit 1: Hollywood and its Others
 
-### 1. Cinema, 1960
+### 1. Cinema, 1960: September 10 & 12
 * Alfred Hitchcock, _Psycho_ (USA, 1960, 109 mins.)
 * Linda Williams, “Discipline and Fun: Psycho and Postmodern Cinema”
 * Roland Barthes, “The Rhetoric of the Image”
 * OH: “Sex and Sensation”
 
-### 2. Underground Cinema
+### 2. Underground Cinema: September 17 & 19
 * Andy Warhol, _Blow Job_ (USA, 1963, 35 mins.)
 * Jack Smith, _Flaming Creatures_ (USA, 1963, 45 mins.)
 * _Maybe:_ Barbara Rubin, _Christmas on Earth_ (USA, 1963, 29 mins.)
@@ -21,21 +21,21 @@
 * Ara Osterweil, "Saint Barbara: The Cinema of Barbara Rubin," from _Flesh Cinema_
 * OH: “Avant-Garde Film: The Second Wave”
 
-### 3. The New Waves
+### 3. The New Waves: September 24 & 26
 * Vera Chytilová, _Daisies_ (_Sedmikrásky_, Czechoslovakia, 1966, 74 mins.)
 * Jan Žalman, “Question Marks on the New Czechoslovak Cinema”
 * Jean-Francois Lyotard, “Acinema”
 * Bliss Cua Lim, “Dolls in Fragments: _Daisies_ as Feminist Allegory”
 * OH: “Changing States in East Central Europe”
 
-### 4. Third Cinema, Revolutionary Cinema
+### 4. Third Cinema, Revolutionary Cinema: October 1 & 3
 * Octavio Getino & Fernando Solanas, _Hour of the Furnaces_, part 1: “Neocolonialism and Violence” (_La hora de los hornos_, Argentina, 1968, 90mins.)
 * Getino & Solanas, “Toward a Third Cinema”
 * Dipesh Chakrabarty, “The Idea of Provincializing Europe”
 * Frantz Fanon, Preface to _The Wretched of the Earth_
 * OH: “New Cinemas in Latin America”
 
-### 5. Fourth Cinema, Indigeneity
+### 5. Fourth Cinema, Indigeneity: October 10 (No class October 8: it is Thanksgiving)
 * Zacharias Kunuk and Norman Cohn, _The Journals of Knud Rasmussen_ (Canada, 2006, 112 mins.)
 * Barry Barclay, “Celebrating Fourth Cinema”
 * Kerstin Knopf, “_The Journals of Knud Rasmussen_: Arctic History as Post/Colonial Cinema”
@@ -45,40 +45,42 @@
 
 ## Unit 2: The Apparatus
 
-### 1. Cinema and/as Technology
+### 1. Cinema and/as Technology: October 15 & 17
 * Stanley Kubrick, _2001: A Space Odyssey_ (USA/UK, 1968, 149 mins.)
 * Jordan Belson, _Samahdi_ (USA, 1967, 6 mins.)
 * Annette Michelson, “Bodies in Space: Film as Carnal Knowledge”
 * Gene Youngblood, from _Expanded Cinema_: exerpts from “The Audience and the Myth of Entertainment” (pp. 45–58), and “Toward Cosmic Consciousness” (pp. 135–78)
 * OH: “New Technologies”
 
-### 2. Cinema and Ideology
+### 2. Cinema and Ideology: October 22 & 24
 * Rainer Werner Fassbinder, _Ali: Fear Eats the Soul_ (_Angst essen seele auf_, Germany, 1973, 94 mins.)
 * Althusser, “Ideology and Ideological State Apparatuses”
 * Jean-Louis Baudry, “Ideological Effects of the Basic Cinematographic Apparatus”
 * OH: “The New German Cinema”
 
-### 3. Primary Cinematic Identification, or Blockbuster Reality
+### 3. Primary Cinematic Identification, or Blockbuster Reality: October 29 & 31
 * Steven Spielberg, _Close Encounters of the Third Kind_ (USA, 1977, 138 mins.)
 * Jacques Lacan, “The Mirror Stage as Formative of the _I_ Function”
 * Christian Metz, “Identification, Mirror,” “The Passion for Perceiving,” and “Disavowal, Fetishism,” from _The Imaginary Signifier_
 * Julie Turnock, “Before Industrial Light and Magic”
 * OH: “The New Hollywood” and “Dreams and Nightmares in the Hollywood Blockbuster”
 
-### 4. Secondary Cinematic Identification, or Passionate Detachment
+#### No class November 5 & 7: it is Reading Week.
+
+### 4. Secondary Cinematic Identification, or Passionate Detachment: November 12 & 14
 * Alfred Hitchcock, _Vertigo_ (USA, 1958, 128 mins.)
 * Laura Mulvey, “Visual Pleasure and Narrative Cinema”
 * Sigmund Freud, “Medusa’s Head” and “Some Psychological Consequences of the Anatomical Distinction Between the Sexes”
 * Damon Young, “The Vicarious Look”
 
-### 5. Disidentification, or Spectatorship
+### 5. Disidentification, or Spectatorship: November 19 & 21
 * Melvin Van Peebles, _Sweet Sweetback’s Basdasssss Song_ (USA, 1971, 97 mins.)
 * bell hooks, “The Oppositional Gaze”
 * Hortense Spillers, “The Idea of Black Culture”
 * Elizabeth Reich, “Historicizing and Internationalizing the ‘Baadasssss’,” from _Militant Visions_ (pp. 1–22 + notes)
 * OH: “The Black Presence in American Cinema”
 
-### 6. On Being Shattered
+### 6. On Being Shattered: November 26 & 28
 * John Woo, _The Killer_ (_喋血双雄_, _Diéxuè shuāngxióng_, Hong Kong, 1989, 110 mins.)
 * Leo Bersani, “Is the Rectum a Grave?”
 * Steven Shaviro, “Film Theory and Visual Fascination” from _The Cinematic Body_
